@@ -1,0 +1,207 @@
+.box{
+    display: flex;
+}
+.box1{
+    margin-top: 212px;
+    font-size: 30px;
+    
+}
+.text1{
+    font-size: 16px;
+    width: 400px;
+    padding-top: 1px; 
+}
+.text{
+    width: 674px;
+    line-height: 75px;
+
+}
+.image{width: 782px;
+    height: 700px;
+   border-radius: 120px;
+    
+
+background-color: #CCF0E6;
+
+}
+.text3{
+width: 120px;
+height: 80px;
+
+}
+.lik{
+    font-size: 21px;
+    background-color: aquamarine;
+    border-radius: 160px;
+}
+.katta{
+    font-size: 50px;
+    text-align: center;
+   /* width: 700px;
+    height: 105px;
+    left: 730px;*/
+
+}
+.katta1{
+    text-align: center;
+   
+
+}
+.text5{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px 0px 0px 10px;
+    
+}
+.text6{
+    width: 449px;
+    height: 350px;
+    padding-top:  80px;
+    margin-top: 0px;
+  padding-bottom: 0px;
+    background-color: #58A9A5;
+
+}
+.rasmii{
+    width: 1030px;
+    height: 430px;
+    
+}
+.text7{
+    display: flex;
+
+}
+.kaal{
+    width: 400px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 145px;
+}
+.harf{
+    font-size: 30px;
+}
+.harf1{
+    font-size: 13px;
+}
+.rasm2{
+    width: 442px;
+    height: 450px;
+    margin-top: 150px;
+    margin-left: 166px;
+
+}
+.text8{
+    text-align: center;
+    margin: 0 auto;
+
+}
+.nima{
+    font-size: 40px;
+    color:  #1C2323;
+    height: 20px;
+   
+}
+.nima1{
+  padding: 0%;
+}
+.chizu{
+    width: 70px;
+    height: 3px;
+   background-color: #58A9A5;
+   border-radius: 70px;
+}
+.chizu1{
+    width: 70px;
+    height: 3px;
+    background-color: #58A9A5;
+    border-radius: 70px;
+    padding-top: 0px;
+
+}
+.holli1{
+    display: flex;
+   padding-top: 100px;
+   padding-left: 120px;
+}
+.lola{
+    font-size: 25px;
+    color: #58A9A5;
+}
+.text9{
+    width: 300px;
+    height: 300px;
+    
+}
+.rasmni{
+    width: 300px;
+    height: 300px;
+}
+.lola1{
+    font-size: 11px;
+}
+.text10{
+    width: 300px;
+    height: 300px;
+    margin-left: 140px;
+}
+.raqam{
+    width: 300px;
+    height: 300px;
+}
+.kechi{
+    font-size: 25px;
+    color: #58A9A5;
+}
+.kechii{
+    font-size: 11px;
+}
+.text11{
+    width: 300px;
+    height: 300px;
+    margin-left: 140px;
+}
+.yaxshi{
+    font-size: 25px;
+    color: #58A9A5;
+}
+.yaxshi1{
+    font-size: 11px;
+}
+.ajoo{
+    width: 300px;
+    height: 300px;   
+}
+.gulli{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 400px;
+}
+.zoor{
+    
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 100px;
+
+
+}
+.nur{
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+}
+.nur1{
+    width: 100px;
+    height: 100px;
+    padding-left: 150px;
+}
+.nur2{
+    width: 100px;
+    height: 70px;
+    padding-left: 150px;
+}
+.nur3{
+    width: 100px;
+    height: 100px;
+    padding-left: 150px;
+}
